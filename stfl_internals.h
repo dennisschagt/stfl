@@ -28,7 +28,7 @@ extern "C" {
 #endif
 
 #include "stfl.h"
-#include <ncursesw/ncurses.h>
+#include <ncurses.h>
 #include <pthread.h>
 
 struct stfl_widget_type;
